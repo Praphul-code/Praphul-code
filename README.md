@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praphul-code
-- 👀 I’m interested in ...Android Developement
-- 🌱 I’m currently learning ...Java
+- 👀 I’m interested in ...Devops
+- 🌱 I’m currently learning ...Data Structure & Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
